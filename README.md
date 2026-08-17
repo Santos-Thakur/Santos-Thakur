@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On<br>Building innovative solutions and exploring new technologies<br>Contributing to open-source projects<br>Developing full-stack applications<br>🌱 Currently Learning<br>Advanced web development techniques<br>Cloud technologies and DevOps<br>Machine learning and AI concepts<br>👯 Looking To Collaborate<br>Open-source projects<br>Web development initiatives<br>Innovative tech startups<br>Community-driven development<br>💬 Ask Me About<br>Web development<br>Software architecture<br>Project management<br>Tech stack decisions<br>📫 How To Reach Me<br>GitHub: @iamnishanpandey<br>Connect with me and let's build something great together
+🔭 Currently Working On<br>Building innovative solutions and exploring new technologies<br>Contributing to open-source projects<br>Developing full-stack applications<br>🌱 Currently Learning<br>Advanced web development techniques<br>Cloud technologies and DevOps<br>Machine learning and AI concepts<br>👯 Looking To Collaborate<br>Open-source projects<br>Web development initiatives<br>Innovative tech startups<br>Community-driven development<br>💬 Ask Me About<br>Web development<br>Software architecture<br>Project management<br>Tech stack decisions<br>📫 How To Reach Me<br>GitHub: @Santos-Thakur<br>Connect with me and let's build something great together
 
 
 # 💻 Tech Stack:
